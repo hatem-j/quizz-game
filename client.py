@@ -1,13 +1,3 @@
-#! /usr/bin/python3
-# -*- coding: utf-8 -*-
-# Fabrice Sincère
-
-# python 3
-# ubuntu : OK
-# win XP, 7 : OK
-
-# biblio : Gérard Swinnen
-
 # Définition d'un client réseau gérant en parallèle l'émission
 # et la réception des messages (utilisation de 2 THREADS).
 
